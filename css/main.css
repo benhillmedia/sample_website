@@ -1,14 +1,67 @@
 .nav-menu {
-  text-align: right;
+text-align: right;
 }
 .nav-spacing {
-  margin: 0 0 0 10px;
+margin: 0 0 0 10px;
 }
 
 .link-underline {
-  text-decoration: none;
+text-decoration: none;
 }
 
 .image-link {
-  text-decoration: none;
+text-decoration: none;
+}
+
+.moby-title {
+text-align: center;
+}
+
+.title-margin {
+margin: 0 0 80px;
+}
+
+.moby-whale {
+display: block;
+margin: 0 auto;
+}
+
+.moby-bookpic {
+float: left;
+margin-right: 20px;
+display: block;
+margin: 10 auto;
+}
+
+.moby-article {
+width: 500px;
+margin: 20px auto;
+padding: 20px;
+background-color: #fafafa;
+}
+
+.blockquote-style {
+font-style: italic;
+font-size: 22px;
+}
+
+.index-blockquote {
+padding: 2px 20px;
+background: #fcd116;
+}
+
+.moby-spanstyle {
+font-style: normal;
+font-size: 28px;
+font-weight: bold;
+color: #f00;
+}
+
+.td {
+padding: 10px;
+border: 1px solid black;
+}
+
+.table {
+  border-collapse: collapse;
 }
